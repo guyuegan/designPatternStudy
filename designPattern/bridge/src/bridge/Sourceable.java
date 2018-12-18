@@ -1,4 +1,5 @@
 package bridge;
 
-public class Sourceable {
+public interface Sourceable {
+    public void method();
 }

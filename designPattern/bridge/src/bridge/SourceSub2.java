@@ -1,8 +1,8 @@
 package bridge;
 
-public class SourceSub1 implements Sourceable {
+public class SourceSub2 implements Sourceable {
     @Override
     public void method() {
-        System.out.println("this is the first sub!");
+        System.out.println("this is the second sub!");
     }
 }

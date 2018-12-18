@@ -1,3 +1,5 @@
+package facade;
+
 public class Computer {
     private Cpu cpu;
     private Memory memory;

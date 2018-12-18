@@ -1,3 +1,5 @@
+package decorator;
+
 public class Decorator implements Sourceable {
     private Sourceable source;
 
