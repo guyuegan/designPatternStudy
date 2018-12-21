@@ -11,3 +11,6 @@ https://www.cnblogs.com/lfxiao/p/6815760.html
 
 //享元模式
 https://www.cnblogs.com/xing901022/p/4066603.html
+
+//模板模式
+https://www.cnblogs.com/qq-361807535/p/6854191.html
